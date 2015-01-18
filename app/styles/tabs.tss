@@ -1,0 +1,11 @@
+"#lblContent": {
+	color:"#999",
+	text: "Server Error!!!"
+}
+"#win": {
+	title:"Win 1"
+}
+"Tab": {
+	title:"Tab 1",
+	icon:"KS_nav_views.png"
+}

@@ -1,0 +1,23 @@
+".loginErrMsg": {
+	text: "Incorrect Login Credentials"
+}
+".userNmValMsg": {
+	text: "Please Enter Username"	
+}
+".passValMsg": {
+	text: "Please Enter Password"	
+}
+".serverErrMsg": {
+	text: "Server Error!!! Contact admin."
+}
+"#btnLogin": {
+	title: "Login"
+}
+"#txtUserName": {
+	hintText: "Enter Username here...",
+	returnKeyType : Titanium.UI.RETURNKEY_NEXT
+}
+"#txtPassword": {
+	hintText: "Enter Password here...",
+	returnKeyType: Titanium.UI.RETURNKEY_GO
+}

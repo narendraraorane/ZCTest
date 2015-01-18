@@ -1,0 +1,7 @@
+<Alloy>
+    <Tab>
+        <Window id="win">
+           <Label id="lblContent"></Label>
+        </Window>
+    </Tab>
+</Alloy>

@@ -1,0 +1,36 @@
+"Window": {
+	backgroundColor: 'white'
+}
+"TextField[platform=ios]": {
+	borderWidth: 1,
+	borderRadius: 3,
+	borderColor: 'black',
+	paddingLeft: 5
+}
+".pwdMask": {
+	passwordMask: true
+}
+".verLayout": {
+	layout: 'vertical'
+}
+".hrzLayout": {
+	layout: 'horizontal'
+}
+".top10": {
+	top: 10
+}
+".top31%": {
+	top: '31%'
+}
+".height50": {
+	height: 50
+}
+".width80%": {
+	width: '80%'
+}
+".bgBlue": {
+	backgroundColor: 'blue'
+}
+".colorRed": {
+	color: "red"
+}

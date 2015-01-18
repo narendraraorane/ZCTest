@@ -1,0 +1,12 @@
+<!-- This View will never be shown.  It's only used to keep Alloy happy 	-->
+<!-- index.js will pick it up from here 									-->
+<Alloy>
+	<Window>
+		<View class="verLayout top31%">
+			<Label id="lblMsg" class="top10 colorRed"></Label>
+			<TextField id="txtUserName" class="top10 height50 width80%" onReturn="nextTxt"></TextField>
+			<TextField id="txtPassword" class="pwdMask top10 height50 width80%" onReturn="login"></TextField>
+			<Button id="btnLogin" class="top10" onClick="login"></Button>
+		</View>
+	</Window>
+</Alloy>

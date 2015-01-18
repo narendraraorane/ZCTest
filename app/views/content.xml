@@ -1,0 +1,5 @@
+<Alloy>
+	<TabGroup backgroundColor="white" >
+		<!-- <Require src="tabs"></Require> -->
+    </TabGroup>
+</Alloy>
